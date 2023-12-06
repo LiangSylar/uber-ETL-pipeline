@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amiable-bonus-406418",
+  "private_key_id": "a79188afe7c9a0973ec45665cc3d368c9cd55dbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1RAZUPBJY0hG9\nylwz0bbh8B101uxD1bQS+YLV2TBfu3RGNPJx6kmJQSShq1zgnHvyE7Ri3ib41fE0\n+C2kXtpsK2EMONKzjDiTUohZqEXrOYhTI1UQabFU3mOHnYrDCbITPweAQjd2NG/r\n5a/gvJivIuOkfMvcfrNHK0j0+zLCsPo//0N+b+mfDPun59Oh7H+YvESQr5yFFgWB\nkd2zj3qRKmJiGmbRnv5tBzyr1qJHTS1u9a3stfGMeLYUkq9uQPxsW/qkGILwBu99\nmLMg2h3FNtdqCwqm/JkSkiye4fR5vyBn/dPeGq9vVNuRvYVOppSw/G+Lca4cvL31\nHQwQBjdJAgMBAAECggEANi/tMm44z9uQmStuz8DgCn/U1nJPc+HlMIztW09PgjbQ\nBhLa7UnsDL9wG3JWVAEDnnTchnfBr76JGlwcjNgcNJztKJGuDyWaXhQclazTpgNv\naOcVjVADRosqtsZWToLN/KnpbKKe4NPBJ4RkxOqsPCLSaYAzEym/H0Xly/JyFLgA\nr6IOlWBDdwLD5vgKps4Y01Z3LMOBK6Rp3K40F5qLnNC0wM25I6qXUHLp8qbmbckE\n57mvoKHzf5BFPkgyyEAbFTWPTGMZhAbYBpIGNraFw64PLX+miheS5aal3ctslym9\niJ52kzQUuJXWCsoGMLxqah/ZQwER+UlSL4ucDfsv1wKBgQDwQdC7+9rNep94vQhC\nK8TkH2dzrrCK8NjPziGx9w84m3ws3reIdGOclVos4KSkJuWz3SJ/C2owW3o5m7Qz\n1xqYSIboT1dNxnUonAwCKX1rDnnBXiBP3jOktwQ6bQMiLrLf3q6nVY/bh6jSFOMZ\nus8+zsvHPHl8g66Fvah3gYDgXwKBgQDBJKkbZT/RYGHYAzYMw0JagZeiIgxEX+sN\nN+3WjkgX5IT+w0ia2wRzAVzq0fJCA2B0mdwhHCRCHZzEm3OMjUrenKCYSXkIsbBn\nrUMCiIGMCiqfBqjkP7mRgpxfJ2FjKHmekUsOK5bD7bOe5+3Re5gaUvrjgN/I+sxv\nSEFsD61pVwKBgQDAcvfQnJ1XmrHC9Sh4WLcORFmJwJSJtwL08hjrhQscPO/qwTwi\ngZiJBNmGuSsokj/NI4VOXsZgleYB30cpf1Q+R1pJG8TC+AVA0j6MPM/JwX6l9c/M\nKiET/8XTRx8Lcny19pnQUCk7oB8KqNCA+7KmjN+OaFKn+pMBbjpT/9hL4QKBgQCS\nmxNJ2jbw5Sof34Ade/FX5dqFlTaeh/hRVkzQebu7dxiEkRMBiJH+AeDX1XkAJrQG\njeuLrmLPVM70ZdL1syJLi7RTJCIdOVNfvyKIP7ml5OmpQFLevohLLUso5ymDLOv0\nMvE31lpgaoPXcNESG7C++pG6Ms6rLcQUDFKshdHpjQKBgFGSu27gKxudHmfD3G1x\nq/DPxC1cDEo04DIVYZ8tZpad19JrUHL0j9TizMlpc2qhKb+990sHbh53OqteWkL1\npbzqpvwhXd8okN+JJJiXV++iP0xZg6moS1ffJdv4nlnEM+Ifcjfgma6uJbz/Butv\n0pDupGAwykrfk5E0Q0USRHzF\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-data-engineering-project@amiable-bonus-406418.iam.gserviceaccount.com",
+  "client_id": "109074221659669066121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-data-engineering-project%40amiable-bonus-406418.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
